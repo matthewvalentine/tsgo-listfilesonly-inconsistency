@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "bundler",
+    "module": "es2020",
+    "jsx": "react",
+    "skipLibCheck": true,
+    "noEmit": true,
+    "lib": ["es2023", "DOM"]
+  }
+}
