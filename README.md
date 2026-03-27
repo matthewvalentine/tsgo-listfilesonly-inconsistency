@@ -1,3 +1,5 @@
+Related `tsgo` issue: https://github.com/microsoft/typescript-go/issues/3253
+
 Running `tsgo --listFilesOnly` produces inconsistent results in this repo. `tsc` does not have this behavior.
 
 What negative effects come from that are unclear, perhaps breaking build caching, or leading to strange random failures.
